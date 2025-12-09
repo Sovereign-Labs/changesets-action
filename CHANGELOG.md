@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.5.4
+
+### Patch Changes
+
+- [`83e77be`](https://github.com/changesets/action/commit/83e77bece4222f4a88b2b0728c1715cfef863054) Thanks [@ross-weir](https://github.com/ross-weir)! - use cwd param
+
 ## 1.5.3
 
 ### Patch Changes
